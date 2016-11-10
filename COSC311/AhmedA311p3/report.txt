@@ -1,0 +1,7 @@
+Busy Time %		Average Wait		Users Waiting
+1. 104.00			4.78			3
+2. 94.00			4.04			3
+
+Busy Time: the percentage modems were busy through each simulation
+Average Wait: the average unit time wait customers were put in wait queue
+Users Waiting: the number of customers remained in wait queue when simulation is done
